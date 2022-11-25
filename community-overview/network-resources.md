@@ -9,4 +9,11 @@ The Research Rabbit collection is also embedded below (note: does not currently 
 
 We regularly expand these collections alongside the release of our [community newsletters](https://metagov.substack.com/) and new publications from the community.
 
+```
+{iframe}(https://www.test.com)
+```
+
+{iframe}(\<iframe src="https://www.researchrabbitapp.com/collection/public/OE6X8QWNLG" frameborder="0" allowfullscreen style="width:100%;height:550px">\</iframe>)\
+
+
 {% embed url="https://www.researchrabbitapp.com/collection/public/OE6X8QWNLG" %}
