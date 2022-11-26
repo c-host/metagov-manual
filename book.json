@@ -1,7 +1,0 @@
-{ 
-  "plugins": ["gitbook-plugin-diy"], 
-  "pluginsConfig": { 
-      "gitbook-plugin-diy": { "base": "https://github.com/c-host/metagov-manual" 
-      } 
-  } 
-}
