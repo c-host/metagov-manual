@@ -5,6 +5,10 @@ coverY: 0
 
 # Metagov Manual
 
+{% hint style="danger" %}
+This Manual is WIP. It has not been proofed and content is still missing.
+{% endhint %}
+
 This is the Metagov Manual, a space where everything anyone would need to know about Metagov is located. It includes:&#x20;
 
 * an overview of Metagov, the 501(c)(3) organization&#x20;
