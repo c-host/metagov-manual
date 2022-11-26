@@ -12,7 +12,7 @@ This Manual is WIP. It has not been proofed and content is still missing.
 This is the Metagov Manual, a space where everything anyone would need to know about Metagov is located. It includes:&#x20;
 
 * an overview of Metagov, the 501(c)(3) organization&#x20;
-* an overview of the Metagov community, a network of researchers and practitioners in online governance&#x20;
+* an overview of the Metagov community, a network of researchers in online governance&#x20;
 * general participation guidelines and protocols&#x20;
 * information about general operations and policies
 * information about the environment Metagov is situated in
