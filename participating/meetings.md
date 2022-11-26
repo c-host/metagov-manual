@@ -21,6 +21,7 @@ We currently have meetings for the following projects. Meetings are open to the 
 * :handshake: Open Collective + Metagov Gateway + PolicyKit integration
 * :handshake: Open Problems in DAO Science
 * :handshake: Validator Commons \[[Joining the Validator Commons Discord](https://discord.gg/mdjcpG3SAA) first is encouraged]
+* 📝 DAOstar Community Call \[[Sign up](https://metagov.typeform.com/to/rnv3Uk3X)]
 
 ### Working Groups
 

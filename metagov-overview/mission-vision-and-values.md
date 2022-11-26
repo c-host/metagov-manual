@@ -1,16 +1,10 @@
 # Mission, Vision and Values
 
-<details>
+## Mission
 
-<summary>Mission</summary>
+The **Metagovernance Project** is an interdisciplinary research collective. We build standards and infrastructure for digital self-governance
 
-The **Metagovernance Project** is an interdisciplinary research collective. We build standards and infrastructure for digital self-governance.
-
-</details>
-
-<details>
-
-<summary>Vision</summary>
+## Vision
 
 #### Metagovernance, or the governance of many worlds
 
@@ -20,13 +14,7 @@ However, on the internet, the right to self-governance is not a natural right; i
 
 Our vision is to describe, support, and expand dynamics that enable the right to self-governance online.
 
-</details>
+## Values
 
-<details>
-
-<summary>Values</summary>
-
-?
-
-</details>
+TBD
 
