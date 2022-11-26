@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/XB70hw9Olp (1) (1).png
-coverY: -20.794419970631424
+cover: .gitbook/assets/i19VtVnj1z.png
+coverY: 0
 ---
 
 # Metagov Manual
