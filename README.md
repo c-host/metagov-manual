@@ -1,13 +1,20 @@
 ---
-cover: .gitbook/assets/XB70hw9Olp (1).png
+cover: .gitbook/assets/XB70hw9Olp (1) (1).png
 coverY: -20.794419970631424
 ---
 
-# Welcome!
+# Metagov Manual
 
 {% hint style="info" %}
 **About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
 {% endhint %}
+
+This is the Metagov Manual, a space where everything anyone would need to know about Metagov is located. It includes an:&#x20;
+
+* overview of Metagov, the 501(c)(3) organization&#x20;
+* the Metagov community, a network of researchers and practitioners in online governance&#x20;
+* general participation guidelines and protocols&#x20;
+* general operating policies
 
 For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
 

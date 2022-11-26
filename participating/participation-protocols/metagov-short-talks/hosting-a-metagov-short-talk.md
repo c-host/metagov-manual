@@ -1,6 +1,10 @@
 # Hosting a Metagov Short Talk
 
+Any Metagov community participant is able to volunteer to be a **Metagov Short Talk** host and gain experience facilitating and moderating a discussion forum. Sessions are also recorded and uploaded to archive.org for posterity.
 
+If you are interested in becoming a Metagov Short Talk host, review the detailed outline of the session and host script, and message one of the rotating hosts to schedule the session you will host.
+
+## Detialed Outline + Host Script&#x20;
 
 * Introductions (5 minutes)&#x20;
   * Welcome new folks and invite them to give introductions
@@ -36,3 +40,9 @@
   * End (2 minutes)
     * "Thanks to all of our presenters, and to everyone for the questions and lively discussion.&#x20;
     * "As is tradition, I welcome everyone to unmute and give our presenters a round of applause
+
+## Rotating Hosts
+
+* Cent Hosten
+* Val Elefante (Slack: @Val E
+* Isaac Mutemi (Slack: @Eng - G - Mutemi)

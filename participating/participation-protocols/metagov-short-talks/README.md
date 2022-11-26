@@ -1,20 +1,16 @@
 # Metagov Short Talks
 
-Metagov Short Talks is a series of monthly lightening talks featuring members of the Metagov community. The sessions are an oportunity for the community to&#x20;
+**Metagov Short Talks** is a series of monthly lightening talks featuring members of the Metagov community. The sessions are an opportunity for the community to come together and share our latest research, discuss interesting articles we've been reading, ask governance questions to our peers, and seek collaborators for projects we are working on.
 
 <details>
 
 <summary>Meeting Details</summary>
 
-Date: First Wednesday of the month
-
-Time: 12-1pm ET
-
-Location: Zoom \[[link](https://cuboulder.zoom.us/j/93806775159)]
-
-Accessibility: Open to the public&#x20;
-
-More Info: [metagov.org/seminars](https://metagov.org/seminar/)
+* Date: First Wednesday of the month
+* Time: 12-1pm ET
+* Location: Zoom \[[link](https://cuboulder.zoom.us/j/93806775159)]
+* Accessibility: Open to the public&#x20;
+* More Info: [metagov.org/seminars ](https://metagov.org/seminar/)& [meetings.md](../../meetings.md "mention")
 
 </details>
 

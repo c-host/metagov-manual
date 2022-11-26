@@ -17,3 +17,11 @@ We hire folks from many different cultures, from all across the world, making as
 ### Tips
 
 Creating rituals might help you in your remote working life. As usual with rituals small ones are the most effective ones such as not working (or only working!) in your pyjamas, wearing work shoes to start the day, taking your work-cup to drink coffee/tea, setting yourself in front of a proper desk or in a specific space at home.
+
+
+
+
+
+* 📝 Attendees must fill out a form before attending
+* :eyes: Observation only
+* :handshake: Open attendance and participation

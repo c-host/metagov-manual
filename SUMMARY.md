@@ -2,7 +2,7 @@
 
 ## Manual Overview
 
-* [Welcome!](README.md)
+* [Metagov Manual](README.md)
 
 ## Metagov Overview
 
@@ -19,14 +19,13 @@
   * [Membership](community-overview/joining-the-metagov-community/membership.md)
   * [Metagov Slack](community-overview/joining-the-metagov-community/metagov-slack.md)
 * [Network Directory](community-overview/network-directory.md)
-* [Network Resources](community-overview/network-resources.md)
 * [Community Governance Proposals](community-overview/community-governance-proposals.md)
 * [Community Finances](community-overview/community-finances.md)
 
 ## Participating
 
 * [How we Work Together](participating/how-we-work-together.md)
-* [Meetings](participating/meetings.md)
+* [Calendar of Meetings](participating/meetings.md)
 * [Documentation Accessibility](participating/documentation-accessibility.md)
 * [Participation Protocols](participating/participation-protocols/README.md)
   * [Metagov Short Talks](participating/participation-protocols/metagov-short-talks/README.md)
@@ -39,11 +38,13 @@
     * [Starting an Informal Working Group](participating/participation-protocols/working-groups/starting-an-informal-working-group.md)
     * [Starting a Formal Working Group](participating/participation-protocols/working-groups/starting-a-formal-working-group.md)
 
-## Policies
+## General Operating Policies
 
-* [Holidays, Time Off, and Leaves](policies/holidays-time-off-and-leaves.md)
-* [Code of Conduct](policies/code-of-conduct.md)
+* [Holidays, Time Off, and Leaves](general-operating-policies/holidays-time-off-and-leaves.md)
+* [Code of Conduct](general-operating-policies/code-of-conduct.md)
 
-## Orienting
+## The Environment
 
-* [Glossary](orienting/glossary.md)
+* [External](the-environment/external.md)
+* [Glossary](the-environment/glossary.md)
+* [Network Resources](the-environment/network-resources.md)

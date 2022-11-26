@@ -1,5 +1,9 @@
 # Documentation Accessibility
 
-Information on how metagov shares documents and does open science
+Metagov documents much of its work. Information on how metagov shares documents and does open science
 
-See:&#x20;
+
+
+* 📝 View and participate
+* :eyes: View only
+* :handshake: Open attendance and participation
