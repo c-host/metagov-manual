@@ -8,26 +8,20 @@
 
 * [Mission, Vision and Values](metagov-overview/mission-vision-and-values.md)
 * [People](metagov-overview/people.md)
-* [Governance](metagov-overview/governance/README.md)
-  * [Proposals](metagov-overview/governance/proposals.md)
-  * [Bylaws](metagov-overview/governance/bylaws.md)
-* [Finances](metagov-overview/finances.md)
 
 ## Community Overview
 
-* [Joining the Metagov Community](community-overview/joining-the-metagov-community/README.md)
-  * [Membership](community-overview/joining-the-metagov-community/membership.md)
-  * [Metagov Slack](community-overview/joining-the-metagov-community/metagov-slack.md)
+* [The Metagov Community](community-overview/joining-the-metagov-community.md)
+* [Forms of Participation](community-overview/forms-of-participation/README.md)
+  * [Membership](community-overview/forms-of-participation/membership.md)
+* [Using the Metagov Slack](community-overview/using-the-metagov-slack.md)
 * [Network Directory](community-overview/network-directory.md)
-* [Community Governance Proposals](community-overview/community-governance-proposals.md)
-* [Community Finances](community-overview/community-finances.md)
 
 ## Participating
 
-* [How we Work Together](participating/how-we-work-together.md)
 * [Calendar of Meetings](participating/meetings.md)
 * [Documentation Accessibility](participating/documentation-accessibility.md)
-* [Participation Protocols](participating/participation-protocols/README.md)
+* [Participation Opportunities and Protocols](participating/participation-protocols/README.md)
   * [Metagov Short Talks](participating/participation-protocols/metagov-short-talks/README.md)
     * [Signing Up for a Metagov Short Talk](participating/participation-protocols/metagov-short-talks/signing-up-for-a-metagov-short-talk.md)
     * [Hosting a Metagov Short Talk](participating/participation-protocols/metagov-short-talks/hosting-a-metagov-short-talk.md)
@@ -35,16 +29,23 @@
     * [Proposing a Metagov Seminar](participating/participation-protocols/metagov-seminars/proposing-a-metagov-seminar.md)
     * [Hosting a Metagov Seminar](participating/participation-protocols/metagov-seminars/hosting-a-metagov-seminar.md)
   * [Working Groups](participating/participation-protocols/working-groups/README.md)
-    * [Starting an Informal Working Group](participating/participation-protocols/working-groups/starting-an-informal-working-group.md)
-    * [Starting a Formal Working Group](participating/participation-protocols/working-groups/starting-a-formal-working-group.md)
+    * [Benefits of a Formal Working Group](participating/participation-protocols/working-groups/starting-a-formal-working-group.md)
 
-## General Operating Policies
+## General Operations and Policies
 
-* [Holidays, Time Off, and Leaves](general-operating-policies/holidays-time-off-and-leaves.md)
-* [Code of Conduct](general-operating-policies/code-of-conduct.md)
+* [Holidays, Time Off and Leaves](general-operations-and-policies/holidays-time-off-and-leaves.md)
+* [Code of Conduct](general-operations-and-policies/code-of-conduct.md)
+* [Governance](general-operations-and-policies/governance/README.md)
+  * [Metagov Governance](general-operations-and-policies/governance/governance/README.md)
+    * [Proposals](general-operations-and-policies/governance/governance/proposals.md)
+    * [Bylaws](general-operations-and-policies/governance/governance/bylaws.md)
+  * [Membership Governance](general-operations-and-policies/governance/community-governance-proposals.md)
+* [Finances](general-operations-and-policies/finances/README.md)
+  * [Metagov Finances](general-operations-and-policies/finances/finances.md)
+  * [Membership Finances](general-operations-and-policies/finances/community-finances.md)
 
 ## The Environment
 
-* [External](the-environment/external.md)
-* [Glossary](the-environment/glossary.md)
+* [Where Else We Live](the-environment/where-else-we-live.md)
+* [Glossary of Key Terms](the-environment/glossary.md)
 * [Network Resources](the-environment/network-resources.md)

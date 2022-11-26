@@ -2,7 +2,7 @@
 
 Metagov maintains public collections of academic research published by our research network on both Zotero and Research Rabbit.
 
-We regularly expand these collections alongside the release of our [community newsletters](https://metagov.substack.com/) and new publications from the community.
+We regularly expand these collections as participants of the community release new publications.&#x20;
 
 {% embed url="https://www.zotero.org/groups/4734886/the-metagovernance-project/" %}
 

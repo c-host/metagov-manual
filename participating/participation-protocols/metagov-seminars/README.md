@@ -8,11 +8,12 @@ The seminar is intended for researchers and practitioners in online governance, 
 
 <summary>Meeting Details</summary>
 
-* Date: Wednesdays
-* Time: 12-1pm ET
-* Location: Zoom \[[link](https://cuboulder.zoom.us/j/93806775159)]
-* Accessibility: Open to the public&#x20;
-* More Info: [metagov.org/seminars ](https://metagov.org/seminar/)& [meetings.md](../../meetings.md "mention")
+* **Date:** Wednesdays
+* **Time:** 12-1pm ET
+* **Location:** Zoom \[[link](https://cuboulder.zoom.us/j/93806775159)]
+* **Accessibility:** Open to the public&#x20;
+* **More Info:** [metagov.org/seminars ](https://metagov.org/seminar/)& [meetings.md](../../meetings.md "mention")
+* **Archive:** The full collection of past talks is at [the Internet Archive](https://archive.org/search.php?query=creator%3A%22Metagovernance+Seminar%22).
 
 </details>
 

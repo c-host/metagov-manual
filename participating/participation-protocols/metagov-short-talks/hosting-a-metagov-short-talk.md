@@ -4,23 +4,23 @@ Any Metagov community participant is able to volunteer to be a **Metagov Short T
 
 If you are interested in becoming a Metagov Short Talk host, review the detailed outline of the session and host script, and message one of the rotating hosts to schedule the session you will host.
 
-## Detialed Outline + Host Script&#x20;
+## Detailed Outline + Host Script&#x20;
 
-* Introductions (5 minutes)&#x20;
+* **Introductions (5 minutes)**&#x20;
   * Welcome new folks and invite them to give introductions
   * Ask if there are any Metagov/community updates
   * Give a brief overview of the format for the speakers&#x20;
     * "Each presenter will have 5 minutes to present followed by 12 minutes of moderated discussion.
     * "The order for today's session will be as follows:
-      * \[Presenter 1]
+      * "\[Presenter 1]
       * "\[Presenter 2]
       * "\[Presenter 3]
     * "Presenters will be given a verbal or sonic one minute warning.
     * "Sessions will be recorded.
     * "Are there any questions?"
   * Ask the host to begin recording
-* Start of Session
-  * Welcome viewers of the recording (2 minutes)
+* **Start of Session**
+  * **Welcome viewers of the recording (2 minutes)**
     * "Hello, and welcome everyone to the Metagov Short Talk series. This is a monthly event where the Metagov community comes together to share our latest research, discuss interesting articles we've been reading, ask governance questions to our peers, and seek collaborators for projects we are working on.
     * "Today's presenters are \[names of presenters]. Each presenter will give a brief introduction to themselves and their discussion topic.
     * "Presenters will have 5 minutes to present followed by 12 minutes of moderated discussion.
@@ -31,18 +31,17 @@ If you are interested in becoming a Metagov Short Talk host, review the detailed
     * "I'd also like to remind our community that we have a rotating cast of hosters for these sessions. If you are interested in developing your hosting and facilitating skills and supporting the work happening in this community, please visit this link to learn more about how to host a Short Talk session.
     * \[ACTION: Post this link in the Zoom chat: \<link>]
     * "We'll begin today's session with \[Presenter 1]."
-  * Presentations (5 minutes \* 3 presenters)&#x20;
+  * **Presentations (5 minutes \* 3 presenters)**&#x20;
     * Turn on a stopwatch to keep time
     * Remember to give a verbal or sonic reminder to the presenter when they have one minute remaining
-  * Discussion (12 minutes \* 3 presenters)&#x20;
+  * **Discussion (12 minutes \* 3 presenters)**&#x20;
     * Keep stack and moderate the discussion
-    * and keep stack of who is due to speak next
-  * End (2 minutes)
+  * **End (2 minutes)**
     * "Thanks to all of our presenters, and to everyone for the questions and lively discussion.&#x20;
-    * "As is tradition, I welcome everyone to unmute and give our presenters a round of applause
+    * "As is tradition, I welcome everyone to unmute and give our presenters a round of applause."
 
 ## Rotating Hosts
 
-* Cent Hosten
-* Val Elefante (Slack: @Val E
+* Cent Hosten (Slack: @Cent)
+* Val Elefante (Slack: @Val Elefante)
 * Isaac Mutemi (Slack: @Eng - G - Mutemi)

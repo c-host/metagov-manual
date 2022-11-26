@@ -1,8 +1,10 @@
 # Documentation Accessibility
 
-Metagov documents much of its work. Information on how metagov shares documents and does open science
+{% hint style="danger" %}
+Page is WIP
+{% endhint %}
 
-
+Metagov documents much of its work. Information on how Metagov shares documents and does open science...
 
 * 📝 View and participate
 * :eyes: View only

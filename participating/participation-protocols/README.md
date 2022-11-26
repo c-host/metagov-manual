@@ -1,6 +1,6 @@
-# Participation Protocols
+# Participation Opportunities and Protocols
 
-There are several ways to shape the direction and activities of Metagov. One of the primary ways of doing this is by engaging in the Metagov Seminars and Short Talks, and working with others in Working Groups.&#x20;
+There are several ways to shape the direction and activities of Metagov, including engaging in the Metagov Seminars and Short Talks, and working with others in Working Groups.
 
 Protocols and guidelines for signing-up, proposing, hosting, and initiating these various activities can be found in the following subsections. &#x20;
 

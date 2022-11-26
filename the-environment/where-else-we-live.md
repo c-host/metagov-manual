@@ -1,11 +1,11 @@
-# External
+# Where Else We Live
 
 Metagov lives mostly online, although we’ve had a few in-person meetups in NYC, Denver, Amsterdam, Navarro, and hope to have more.&#x20;
 
-Our digital lives are lived on:
+Our digital lives are also lived on:
 
 * [Website](https://metagov.org/) (interactive metasite)
-* [Slack](https://metagov.slack.com) (primary community forum, [join](../community-overview/joining-the-metagov-community/))
+* [Slack](https://metagov.slack.com) (primary community forum, [join](../community-overview/joining-the-metagov-community.md))
 * [GitHub](https://github.com/metagov) (software and website repos)
 * [Substack](https://metagov.substack.com/) (research and community news)
 * [Medium](https://medium.com/metagov) (research blog)
