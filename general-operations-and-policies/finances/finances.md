@@ -1,4 +1,8 @@
-# Finances
+# Metagov Finances
+
+{% hint style="warning" %}
+Page is WIP.
+{% endhint %}
 
 Our finances are hosted publicly on [Open Collective](https://opencollective.com/metagov).
 

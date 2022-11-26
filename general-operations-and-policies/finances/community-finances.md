@@ -1,5 +1,7 @@
 # Membership Finances
 
 {% hint style="warning" %}
-This page is stil a WIP. It will eventually contain financial information about the community membership.
+Page is WIP. It will eventually contain financial information about the community membership.
 {% endhint %}
+
+Our finances are hosted publicly on [Open Collective](https://opencollective.com/metagov).

@@ -10,18 +10,36 @@ To help orient people interested in Metagov's mission, we offer this modest glos
 
 ### Governance
 
+Definition &#x20;
+
 ### Metagovernance
+
+Definition &#x20;
 
 ### Infrastructure
 
+Definition &#x20;
+
 ### Decentralization
+
+Definition &#x20;
 
 ### Policy
 
+Definition &#x20;
+
 ### Networks
+
+Definition &#x20;
 
 ### Coordination
 
+Definition &#x20;
+
 ### Digital Ethnography
+
+Definition &#x20;
+
+## Audio Recordings
 
 Cent Hosten is also releasing audio recordings from Mark Bevir's _Key Concepts in Governance_. A sample of these recordings can be found bellow. The full archive is available to community participants on the Metagov Slack in #key-concepts.

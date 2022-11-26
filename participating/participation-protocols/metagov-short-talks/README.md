@@ -24,6 +24,10 @@ An outline of the format is as follows:
   * Discussion (12 minutes \* 3 presenters)&#x20;
   * End (2 minutes)
 
+{% hint style="info" %}
 See [hosting-a-metagov-short-talk.md](hosting-a-metagov-short-talk.md "mention") for detailed information about how to become a Short Talk host and a hosting script.
+{% endhint %}
 
+{% hint style="info" %}
 See [signing-up-for-a-metagov-short-talk.md](signing-up-for-a-metagov-short-talk.md "mention") for information on how to present at a Short Talk session.
+{% endhint %}

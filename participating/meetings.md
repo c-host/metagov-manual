@@ -25,7 +25,7 @@ We currently have meetings for the following projects. Meetings are open to the 
 
 ### Working Groups
 
-* 📝 Govbase Labs \[[Become a community participant](../community-overview/joining-the-metagov-community.md) and visit #govbase on the Metagov Slack]
+* 📝 Govbase Labs \[[Become a community participant](../community-overview/forms-of-participation/) and visit #govbase on the Metagov Slack]
 
 ### Research Meta Discussion
 

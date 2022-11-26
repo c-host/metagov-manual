@@ -8,4 +8,3 @@ Metagov documents much of its work. Information on how Metagov shares documents 
 
 * 📝 View and participate
 * :eyes: View only
-* :handshake: Open attendance and participation

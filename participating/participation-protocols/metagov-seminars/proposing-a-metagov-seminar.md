@@ -13,6 +13,10 @@ Community participants can use the Metagov Slack to propose:&#x20;
 
 To propose a seminar session, we use the PolicyKit bot command `propose-seminar` to trigger a vote in Slack. For example:&#x20;
 
+#### **Original Post**
+
 <figure><img src="../../../.gitbook/assets/qv0xiMWoX6.png" alt=""><figcaption><p>Original post that triggers a PolicyKit vote (note use of propose-seminar)</p></figcaption></figure>
+
+#### PolicyKit Post
 
 <figure><img src="../../../.gitbook/assets/DQAfQy8KRY.png" alt=""><figcaption><p>Triggered PolicyKit vote</p></figcaption></figure>

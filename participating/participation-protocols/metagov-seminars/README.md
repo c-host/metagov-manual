@@ -26,6 +26,10 @@ An outline of the format is as follows:
   * Discussion (30 minutes)&#x20;
   * End (2 minutes)
 
+{% hint style="info" %}
 See [hosting-a-metagov-seminar.md](hosting-a-metagov-seminar.md "mention") for detailed information about how to become a Short Talk host and a hosting script.
+{% endhint %}
 
+{% hint style="info" %}
 See [proposing-a-metagov-seminar.md](proposing-a-metagov-seminar.md "mention") for information on how to propose a Metagov Seminar.
+{% endhint %}
