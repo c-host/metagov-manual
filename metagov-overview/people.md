@@ -83,7 +83,7 @@ The Metagovernance Project is an open, collective effort, by many people, to bui
 
 * Primavera De Filippi
 * Lawrence Lessig
-* Nathan Schneider
+* Nathan Schneider, Secretary &#x20;
 * Joshua Tan
 * Michael Zargham, Treasurer
 
